@@ -16,13 +16,13 @@ Este repositório contém uma coleção organizada dos meus projetos pessoais, u
 
 ### Web
 
-- `Painel Admin`: 
+- `Painel Admin`: (https://task-manager-brasil.laravel.cloud/)
   
 
 ### Projetos Experimentais
 
-- `Sistema de Agendamento - WEB`
-- `Flutter CRUD`   
+- `Sistema de Agendamento - WEB` (https://github.com/dwictor0/task_manager) 
+- `Flutter CRUD`   (https://github.com/dwictor0/flutter_basic_crud)
   
 
 
