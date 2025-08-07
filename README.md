@@ -21,7 +21,7 @@ Este repositório contém uma coleção organizada dos meus projetos pessoais, u
 
 ### Projetos Experimentais
 
-- `Sistema de Agendamento - WEB` (https://github.com/dwictor0/task_manager) 
+- `Sistema de Agendamento - WEB` (https://github.com/dwictor0/schedule_app) 
 - `Flutter CRUD`   (https://github.com/dwictor0/flutter_basic_crud)
   
 
